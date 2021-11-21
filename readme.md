@@ -1,6 +1,10 @@
-This is my attempt at all Windows Tweaks I've come across. Weather this is Open Source Projects, one off scripts that are helpful or even applications built by Microsoft that can extend functionality.
+As long as Microsoft makes decisions developers don't like there have been countless programs to change the behavior, design, or functionality of Windows. As this list of programs that do any of the above grows, I decided to do my best to put this list in one place.
 
-After learning of so many of them, and having the list get longer and longer as developers don't like the decisions Microsoft makes, this is an easy place I can save all of them.
+Below is a _non-comprehensive_ collection of software that can change the look and feel or behavior of Windows OS organized by what effect the software has. As well as containing some special sections for software that bundles together or otherwise tries to accomplish the same goal.
+
+Some programs listed are Open-Source, Free, Paid, or even developed by Microsoft themselves.
+
+See something missing from this list? Feel free to contribute.
 
 # Table of Contents
 
@@ -574,4 +578,7 @@ Shows the available shortcuts for the current state of the desktop.
 ---
 
 # Sysinternals <a name="sysinternals"></a>
+
+`TODO//`
+
 ------------------------------------------------------------------------------
