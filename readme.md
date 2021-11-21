@@ -4,15 +4,22 @@ After learning of so many of them, and having the list get longer and longer as 
 
 # Table of Contents
 
+- Special Sections
+  - [Windows 11 Specific](#windows11)
+  - [PowerToys](#powertoys)
+- [Visual Tweaks](#visual)
+- [Browser Tweaks](#browser)
 - [Window Manager Tweaks](#window-manager)
 
-# Windows 11 Specific
+---
+
+# Windows 11 Specific <a name="windows11"></a>
 
 - [StartAllBack](https://www.startallback.com/) - Embrace, enhance, unsweep classic UI from under the rug. `Proprietary` `$5`
 
 - [Start11](https://www.stardock.com/products/start11/) - Customize the Start Menu and Taskbar in Windows 10/11 `Proprietary` `$5`
 
-# Visual Tweaks
+# Visual Tweaks <a name="visual"></a>
 
 ## [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
 Easily manage the brightness of your monitors in Windows from the System tray.
@@ -47,7 +54,7 @@ Classic Shell Reborn.
 
 - Classic style Start Menu for Windows 7, 8, 8.1, 10
 - Toolbar for Windows Explorer
-- Classic copy UI (WIndows 7 only)
+- Classic copy UI (Windows 7 only)
 - Show file size in Explorer status bar
 - Title bar and status bar for Internet Explorer
 
@@ -192,7 +199,7 @@ Automatically switches between the dark and light theme of Windows 10 and Window
 
 ---
 
-# Browser Tweaks
+# Browser Tweaks <a name="browser"></a>
 
 ## [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect)
 A Tool to Redirect News, Search, and Weather Results to Your Default Browser
@@ -253,5 +260,5 @@ Sizer 4.0 is latest version of the popular utility used to accurately resize and
 
 ---
 
-# PowerToys
+# PowerToys <a name="powertoys"></a>
 ------------------------------------------------------------------------------
