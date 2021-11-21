@@ -7,6 +7,7 @@ After learning of so many of them, and having the list get longer and longer as 
 - Special Sections
   - [Windows 11 Specific](#windows11)
   - [PowerToys](#powertoys)
+  - [Sysinternals](#sysinternals)
 - [Visual Tweaks](#visual)
 - [Browser Tweaks](#browser)
 - [Window Manager Tweaks](#window-manager)
@@ -15,12 +16,30 @@ After learning of so many of them, and having the list get longer and longer as 
 
 # Windows 11 Specific <a name="windows11"></a>
 
-- [StartAllBack](https://www.startallback.com/) - Embrace, enhance, unsweep classic UI from under the rug. `Proprietary` `$5`
+- [StartAllBack](#windows11-startallback) - Embrace, enhance, unsweep classic UI from under the rug.
 
-- [Start11](https://www.stardock.com/products/start11/) - Customize the Start Menu and Taskbar in Windows 10/11 `Proprietary` `$5`
+- [Start11](#windows11-start11) - Customize the Start Menu and Taskbar in Windows 10/11
+
+---
 
 # Visual Tweaks <a name="visual"></a>
 
+## [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups)
+Lightweight utility for organizing the taskbar through groups
+
+<img src="https://img.shields.io/github/license/tjackenpacken/taskbar-groups?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Create groups of shortcuts in the taskbar
+
+#### Links
+
+- [Github](https://github.com/tjackenpacken/taskbar-groups)
+
+---
 ## [Twinkle Tray](https://github.com/xanderfrangos/twinkle-tray)
 Easily manage the brightness of your monitors in Windows from the System tray.
 
@@ -179,7 +198,7 @@ Automatically switches between the dark and light theme of Windows 10 and Window
 
 `C#`
 
-### Features
+#### Features
 
 - Compatible with Windows 10 and Windows 11.
 - Theme switch based on sunrise and sunset.
@@ -193,9 +212,43 @@ Automatically switches between the dark and light theme of Windows 10 and Window
 - Automatic Updates.
 - Run custom scripts.
 
-### Links
+#### Links
 
 - [Github](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
+
+---
+## [StartAllBack](https://www.startallback.com/) <a name="windows11-startallback"></a>
+Embrace, enhance, unsweep classic UI from under the rug
+
+`Proprietary`
+
+#### Features
+
+- Restore and improve taskbar
+- Restore and improve File Explorer UI
+- Restore and improve context menus
+- Restore and improve start menu
+- Finally lightweight styling nd UI consistency
+
+### Links
+
+- [Website](https://www.startallback.com/)
+
+---
+## [Start11](https://www.stardock.com/products/start11/) <a name="windows11-start11"></a>
+
+`Proprietary` **$5.99**
+
+#### Features
+
+- Familiar: Replace Start Menu with a classic version.
+- Enhance: Bring back missing features form previous versions of Windows
+- Personalize: Robust customization options that allow you to change styles, colors, transparency, shortcut links and more.
+- Control: Move Start button to center or left, top of the screen, or change how it responds.
+
+#### Links
+
+- [Website](https://www.stardock.com/products/start11/)
 
 ---
 
@@ -261,4 +314,30 @@ Sizer 4.0 is latest version of the popular utility used to accurately resize and
 ---
 
 # PowerToys <a name="powertoys"></a>
+
+- [PowerToys Awake](#powertoys-awake) - Designed to keep a computer awake without having to manage its power & sleep settings.
+
+- [Color Picker](#powertoys-colorpicker) - System-wide color picking utility, pick colors from any currently running application.
+
+- [FancyZones](#powertoys-fancyzones) - Window manager that makes it easy to create complex window layouts and quickly position windows into those layouts.
+
+- [File Explorer add-ons](#powertoys-fileexploreraddons) - Enable preview pane rendering in File Explorer to display new file types.
+
+- [Image Resizer]()
+
+- [Keyboard Manager]()
+
+- [Mouse Utilities]()
+
+- [PowerRename]()
+
+- [PowerToys Run]()
+
+- [Shortcut Guide]()
+
+- [Video Conference Mute]()
+
+---
+
+# Sysinternals <a name="sysinternals"></a>
 ------------------------------------------------------------------------------
