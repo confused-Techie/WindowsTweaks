@@ -11,14 +11,18 @@ After learning of so many of them, and having the list get longer and longer as 
 - [Visual Tweaks](#visual)
 - [Browser Tweaks](#browser)
 - [Window Manager Tweaks](#window-manager)
+- [Search Tweaks](#search)
+- [Input Device Tweaks](#input-device)
+- [File Handling Tools](#file-handling-tools)
+- [Misc Tools](#misc-tools)
 
 ---
 
 # Windows 11 Specific <a name="windows11"></a>
 
 - [StartAllBack](#windows11-startallback) - Embrace, enhance, unsweep classic UI from under the rug.
-
 - [Start11](#windows11-start11) - Customize the Start Menu and Taskbar in Windows 10/11
+- [Win11DisabledRoundedCorners](#windows11-win11disabledroundedcorners) - A simple utility that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11
 
 ---
 
@@ -175,7 +179,7 @@ Customize and widgetize your Live Tiles
 - [Microsoft Store](https://www.microsoft.com/en-us/p/live-tiles-anywhere-customize-and-widgetize-your-live-tiles/9nr7qqk712pl)
 
 ---
-## [Win11DisabledRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners)
+## [Win11DisabledRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) <a name="windows11-win11disabledroundedcorners"></a>
 A simple utility that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11
 
 <img src="https://img.shields.io/github/license/valinet/Win11DisableRoundedCorners?style=for-the-badge">
@@ -312,6 +316,236 @@ Sizer 4.0 is latest version of the popular utility used to accurately resize and
 - [Website](http://www.brianapps.net/sizer4/)
 
 ---
+## [FancyZones](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones) <a name="powertoys-fancyzones"></a>
+FancyZones is a window manager utility for arranging and snapping windows into efficient layouts to improve the speed of your workflow and restore layouts quickly.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Allows definition of window locations for a desktop that are drag targets for windows.
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
+
+# Search Tweaks <a name="search"></a>
+
+## [PowerToys Run](https://docs.microsoft.com/en-us/windows/powertoys/run) <a name="powertoys-run"></a>
+Can help you search and launch your app instantly.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Select `ALT`+`Space` and start typing to search.
+- This shortcut can be changed.
+- Supports additional plugins.
+- Search for applications, folders, or files.
+- Search for running processes (previously known as WindowWalker)
+- Clickable buttons with keyboard shortcuts.
+- Invoke Shell Plugin
+- Do a simple calculation using calculator.
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
+
+# Input Device Tweaks <a name="input-device"></a>
+
+## [Keyboard Manager](https://docs.microsoft.com/en-us/windows/powertoys/keyboard-manager) <a name="powertoys-keyboardmanager"></a>
+Allows you to customize the keyboard to be more productive by remapping keys and creating your own keyboard shortcuts.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Redefine keys on your keyboard.
+- Exchange shortcut key combinations.
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
+## [Mouse Utilities](https://docs.microsoft.com/en-us/windows/powertoys/mouse-utilities) <a name="powertoys-mouseutilities"></a>
+Add functionality to enhance your mouse and cursor.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Find My Mouse: Double press the left `Ctrl` key to activate a spotlight that focuses on the cursor's position.
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
+## [Video Conference Mute](https://docs.microsoft.com/en-us/windows/powertoys/video-conference-mute) <a name="powertoys-videoconferencemute"></a>
+Quick way to globally "mute" both your microphone and camera.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Quickly Mute your microphone and turn off your camera with a single keystroke while on a conference call.
+- Works regardless of what application has focus on your computer.
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
+
+# File Handling Tools <a name="file-handling-tools"></a>
+
+## [File Explorer add-ons](https://docs.microsoft.com/en-us/windows/powertoys/file-explorer) <a name="powertoys-fileexploreraddons"></a>
+Enable preview pane rendering in File Explorer to display new file types.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Preview Pane rendering of SVG icons (.svg)
+- Preview Pane rendering of Markdown files (.md)
+- Preview Pane rendering of PDF files (.pdf)
+- Icon thumb preview for SVG icons.
+- Icon thumb preview for PDF files
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
+## [PowerRename](https://docs.microsoft.com/en-us/windows/powertoys/powerrename) <a name="powertoys-powerrename"></a>
+Enables you to perform bulk renaming, searching and replacing file names.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Bulk renaming tool that enables you to:
+  - Modify the file names of a large number of files (without giving all of the files the same name)
+  - Perform a search and replace on a targeted section of file names.
+  - Perform a regular expression rename on multiple files.
+  - Check expected rename results in a preview window before finalizing a bulk rename.
+  - Undo a rename operation after it is completed.
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
+## [Image Resizer]() <a name="powertoys-imageresizer"></a>
+Windows Shell extension for quickly resizing images.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Right Click resizing of images in File Explorer.
+- Drag and Drop with the right mouse button to resize.
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
+
+# Misc Tools <a name="misc-tools"></a>
+
+## [Color Picker](https://docs.microsoft.com/en-us/windows/powertoys/color-picker) <a name="powertoys-colorpicker"></a>
+System-wide color picking utility, pick colors from any currently running application.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Pick colors from any currently running application.
+- Copy it in a configurable format to your clipboard.
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
+## [PowerToys Awake](https://docs.microsoft.com/en-us/windows/powertoys/awake) <a name="powertoys-awake"></a>
+Designed to keep a computer awake without having to manage its power & sleep settings.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- Can allow running time-consuming tasks, ensuring the computer does not go to sleep or turn off its screens.
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
+## [Shortcut Guide](https://docs.microsoft.com/en-us/windows/powertoys/shortcut-guide) <a name="powertoys-shortcutguide"></a>
+Shows the available shortcuts for the current state of the desktop.
+
+<img src="https://img.shields.io/github/license/microsoft/PowerToys?style=for-the-badge">
+
+`C#`
+
+#### Features
+
+- An overlay appears showing keyboard shortcuts that use the Windows key.
+
+#### Links
+
+- [Microsoft Website](https://docs.microsoft.com/en-us/windows/powertoys/fancyzones)
+- [Github](https://github.com/microsoft/PowerToys)
+- [Microsoft Store](https://aka.ms/getPowertoys)
+
+---
 
 # PowerToys <a name="powertoys"></a>
 
@@ -323,19 +557,19 @@ Sizer 4.0 is latest version of the popular utility used to accurately resize and
 
 - [File Explorer add-ons](#powertoys-fileexploreraddons) - Enable preview pane rendering in File Explorer to display new file types.
 
-- [Image Resizer]()
+- [Image Resizer](#powertoys-imageresizer) - Windows Shell extension for quickly resizing images.
 
-- [Keyboard Manager]()
+- [Keyboard Manager](#powertoys-keyboardmanager) - Allows you to customize the keyboard to be more productive by remapping keys and creating your own keyboard shortcuts.
 
-- [Mouse Utilities]()
+- [Mouse Utilities](#powertoys-mouseutilities) - Add functionality to enhance your mouse and cursor.
 
-- [PowerRename]()
+- [PowerRename](#powertoys-powerrename) - Enables you to perform bulk renaming, searching and replacing file names.
 
-- [PowerToys Run]()
+- [PowerToys Run](#powertoys-run) - Can help you search and launch your app instantly.
 
-- [Shortcut Guide]()
+- [Shortcut Guide](#powertoys-shortcutguide) - Shows the available shortcuts for the current state of the desktop.
 
-- [Video Conference Mute]()
+- [Video Conference Mute](#powertoys-videoconferencemute) - Quick way to globally "mute" both your microphone and camera.
 
 ---
 
